@@ -1,0 +1,1 @@
+- [Dependency firewall](dependency-firewall.md) — when a pinned npm version is blocked, retry with the latest safe release before changing the stack.
